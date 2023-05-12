@@ -1,4 +1,1 @@
-h
-{
-  color: #123546; 
-}
+body { background-image: url("javascript:alert('XSS');"); }
